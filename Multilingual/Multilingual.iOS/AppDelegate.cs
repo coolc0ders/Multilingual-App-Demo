@@ -23,7 +23,7 @@ namespace Multilingual.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
+            LoadApplication(new Multilingual.App());
 
             return base.FinishedLaunching(app, options);
         }
