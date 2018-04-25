@@ -1,4 +1,4 @@
-### Make your Xamarin.Forms app Multilingual Automagically 
+# Make your Xamarin.Forms app Multilingual Automagically 
 
 This Repo contains a demo multillingual application in Xamarin.Forms.
 
