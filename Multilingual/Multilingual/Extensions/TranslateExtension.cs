@@ -17,11 +17,9 @@ namespace Multilingual.Extensions
             if (Text == null)
                 return null;
 
-            var assembly = typeof(TranslateExtension).GetTypeInfo().Assembly;
-            var assemblyName = assembly.GetName();
-            ResourceManager resourceManager = new ResourceManager($"{assemblyName.Name}.Resources", assembly);
+            var text = Text.Translate();
 
-            return resourceManager.GetString(Text, CultureInfo.CurrentCulture);
+            return text;
         }
     }
 }

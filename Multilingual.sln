@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2036
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual.Android", "Multilingual\Multilingual.Android\Multilingual.Android.csproj", "{4BF2A30A-57DC-4A30-A9B8-43FA4536C100}"
 EndProject
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual.iOS", "Multili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual.UWP", "Multilingual\Multilingual.UWP\Multilingual.UWP.csproj", "{98BA213D-D9E2-40CC-B6C5-E6F48434F49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multilingual", "Multilingual\Multilingual\Multilingual.csproj", "{E629B752-CCCE-458A-A822-7AE4D32A3CC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multilingual", "Multilingual\Multilingual\Multilingual.csproj", "{E629B752-CCCE-458A-A822-7AE4D32A3CC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
